@@ -1,0 +1,9 @@
+[submodule "vagrant"]
+	path = vagrant
+	url = https://github.com/nwoetzel/eclipse_dev_env_vagrant.git
+[submodule "ansible-role-eclipse"]
+	path = ansible-role-eclipse
+	url = https://github.com/nwoetzel/ansible-role-eclipse.git
+[submodule "ansible-role-java-oracle"]
+	path = ansible-role-java-oracle
+	url = https://github.com/nwoetzel/ansible-role-java-oracle.git
